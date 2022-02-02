@@ -153,7 +153,7 @@ async def apkr(event):
 
 
 #Rallsthon ®
-#الملـف حقـوق علش الريس ⤶ @QQ070 خاص بسـورس ⤶ Rallsthon
+#الملـف حقـوق علش الريس ⤶ @YY_YPY خاص بسـورس ⤶ Rallsthon
 #الملف متعوب عليه So تخمط وماتذكـر المصـدر == اهينـك
 
 @borg.on(admin_cmd(pattern="تطبيق ?(.*)"))
