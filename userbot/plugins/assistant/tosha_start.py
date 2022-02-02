@@ -149,8 +149,8 @@ async def settings(event):
 async def settings(event):
     await event.edit("** ⌔∮ هنا ستجد رابط ريس ثـون ورابط التنصيب ايضا**:",
                      buttons=[
-                         [Button.url("🔗 رابط السورس🔗", url="https://github.com/RallsTeam/Ralls_pack")],
-                         [Button.url("🔗 رابط التنصيب 🔗", url="https://heroku.com/deploy?template=https://github.com/RallsTeam/Ralls_pack")],
+                         [Button.url("🔗 رابط السورس🔗", url="https://github.com/Faresbadry829/Ralls_thon")],
+                         [Button.url("🔗 رابط التنصيب 🔗", url="https://heroku.com/deploy?template=https://github.com/Faresbadry829/Ralls_thon")],
                          [Button.url("✨ الدعم ✨",
                                      url="https://t.me/RallsThon")]
                      ])
