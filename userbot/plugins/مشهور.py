@@ -1,5 +1,5 @@
-#𝐑𝐀𝐈𝐈𝐒𝙏𝙝𝙤𝙣 ®
-#الملـف حقـوق وكتابـة علش الريس ⤶ @QQ070 خاص بسـورس ⤶ 𝐑𝐀𝐈𝐈𝐒𝙏𝙝𝙤𝙣
+#𝙍𝙊𝙇𝙄𝙓𝙏𝙃𝙊𝙉®
+#الملـف حقـوق وكتابـة داد روليكس ⤶ @YY_YPY خاص بسـورس ⤶ 𝙍𝙊𝙇𝙄𝙓𝙏𝙝𝙤𝙣
 #الملـف متعـوب عليه تخمـط اذكر المصـدر
 
 import os
@@ -16,7 +16,7 @@ from . import mention
 
 TMP_DOWNLOAD_DIRECTORY = Config.TMP_DOWNLOAD_DIRECTORY
 
-FANAN = "<b> 𓆩 𝗦𝗢𝗨𝗥𝗖𝗘 𝐑𝐀𝐈𝐈𝐒 - 💞🤵💞 𓆪 </b>"
+FANAN = "<b> 𓆩 𝙎𝙊𝙐𝙍𝘾𝙀 𝙍𝙊𝙇𝙄𝙓𝙏𝙃𝙊𝙉 - 💞🤵💞 𓆪 </b>"
 VANAN = "<b> ⋄︙افيشش 🥺💘 </b>"
 sts_fanan = "https://telegra.ph/file/50caf0efa9a2453985364.jpg"
 sts_fanan2 = "https://telegra.ph/file/dda7dd09f7d697fe92ff6.jpg" 
@@ -211,7 +211,7 @@ async def fetch_info(replied_user, event):
        caption = f"<b> {FANAN} </b>\n\n\n"
        caption += f"<b> {VANAN} </b>"
        caption += f'<a href="tg://user?id={user_id}">{first_name}</a>'
-       caption += f"\n\n<b> ⋄︙مبࢪوڪ زواجج مِـن سعــد المجرد 🥺💘. </b>"
+       caption += f"\n\n<b> ⋄︙مبࢪوڪ زواجج مِـن روليكس فاجر 🥺💘. </b>"
        return sts_fanan18, caption
 
 
