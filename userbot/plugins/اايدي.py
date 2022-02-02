@@ -1,4 +1,4 @@
-# whois code for Ralls edit by ~ @RallsThon
+# whois code for Rolix edit by ~ @YY_YPY
 
 import os
 
@@ -8,7 +8,7 @@ from telethon.tl.types import MessageEntityMentionName
 from telethon.utils import get_input_location
 
 TMP_DOWNLOAD_DIRECTORY = Config.TMP_DOWNLOAD_DIRECTORY
-ZED_TEXT = Config.CUSTOM_ALIVE_TEXT or "╮•⎚ مـعلومات الـشخص مـن بـوت ريسثـون"
+ZED_TEXT = Config.CUSTOM_ALIVE_TEXT or "╮•⎚ مـعلومات الـشخص مـن بـوت روليكس"
 ZEDM = Config.CUSTOM_ALIVE_EMOJI or " •❃ "
 
 @bot.on(admin_cmd(pattern="ا(?: |$)(.*)"))
@@ -120,7 +120,7 @@ async def fetch_info(replied_user, event):
     caption += f"\n<b> {ZEDM}| الـمجموعات المشتـركة ⇦ </b> {common_chat} \n"
     caption += f"<b> {ZEDM}| البايـو    ⇦ </b> {user_bio} \n"
     caption += f"<b> ٴ•━─━─━─━─━─━─━─━─━• </b>\n"
-    caption += f"<b> 𓆩 𝙎𝙊𝙐𝙍𝘾𝞝 𝐑𝐀𝐈𝐈𝐒 𓆪 </b> - @RallsThon"
+    caption += f"<b> 𓆩 𝙎𝙊𝙐𝙍𝘾𝙀 𝙍𝙊𝙇𝙄𝙓 𓆪 </b> - @YY_YPY"
     return photo, caption
 
 
