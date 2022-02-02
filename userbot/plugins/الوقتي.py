@@ -16,7 +16,7 @@ from telethon.tl import functions
 from . import AUTONAME, BOTLOG, BOTLOG_CHATID, DEFAULT_BIO
 from .sql_helper.globals import addgvar, delgvar, gvarstatus
 
-DEFAULTUSERBIO = DEFAULT_BIO or "الحمد الله على كل شئ - @RallsThon"
+DEFAULTUSERBIO = DEFAULT_BIO or "عــــايـــــشـــــهــــــا بــــدمــــــاغـــــــــي ♡︎ - @YY_YPY"
 CHANGE_TIME = Config.CHANGE_TIME
 DEFAULTUSER = AUTONAME or Config.ALIVE_NAME
 RallsT = Config.CUSTOM_ALIVE_EMRalls or " "
@@ -340,9 +340,9 @@ CMD_HELP.update(
   **╮•❐ الامـر ⦂ **`.الاسم تلقائي`
 •  **الشـرح •• **__لوضـع اسـم وقتـي لحسابـك يتغيـر تلقائيـاً كـل دقيقـه مـع الوقـت__
   **╮•❐ الامـر ⦂ **`.البروفايل تلقائي`
-•  **الشـرح •• **__لوضـع بروفايـل وقتـي يتغيـر تلقائيـاً مع حسابـك كل دقيقـه لشرح الامر اذهب الى https://t.me/Ralls_Thon/63 __
+•  **الشـرح •• **__لوضـع بروفايـل وقتـي يتغيـر تلقائيـاً مع حسابـك كل دقيقـه لشرح الامر اذهب الى https://t.me/RolixXx1 __
   **╮•❐ الامـر ⦂ **`.البايو تلقائي`
-•  **الشـرح •• **__لوضـع بايـو وقتـي يتغيـر تلقائـياً مع الوقـت كـل دقيقـه لشرح الامر اذهب الى https://t.me/Ralls_Thon/63 __
+•  **الشـرح •• **__لوضـع بايـو وقتـي يتغيـر تلقائـياً مع الوقـت كـل دقيقـه لشرح الامر اذهب الى https://t.me/RolixXx1 __
   **╮•❐ الامـر ⦂ **`.انهاء + ( الاسم تلقائي/البروفايل تلقائي/البايو تلقائي ) `
 •  **الشـرح •• **__لانهـاء الاوامـر الوقتيـه من حسابـك__
 """
