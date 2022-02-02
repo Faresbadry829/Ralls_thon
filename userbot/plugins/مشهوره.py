@@ -1,5 +1,5 @@
-#𝐑𝐀𝐈𝐈𝐒𝙏𝙝𝙤𝙣 ®
-#الملـف حقـوق وكتابـة علش الريس ⤶ @QQ070 خاص بسـورس ⤶ 𝐑𝐀𝐈𝐈𝐒𝙏𝙝𝙤𝙣
+#𝙍𝙊𝙇𝙄𝙓𝙏𝙝𝙤𝙣 ®
+#الملـف حقـوق وكتابـة داد روليكس ⤶ @YY_YPY خاص بسـورس ⤶ 𝙍𝙊𝙇𝙄𝙓𝙏𝙝𝙤𝙣
 #الملـف متعـوب عليه تخمـط اذكر المصـدر
 
 import os
@@ -16,7 +16,7 @@ from . import mention
 
 TMP_DOWNLOAD_DIRECTORY = Config.TMP_DOWNLOAD_DIRECTORY
 
-FANAN = "<b> 𓆩 𝗦𝗢𝗨𝗥𝗖𝗘 𝐑𝐀𝐈𝐈𝐒 - 💞👰🏻‍♀💞 𓆪 </b>"
+FANAN = "<b> 𓆩 𝙎𝙊𝙐𝙍𝘾𝙀 𝙍𝙊𝙇𝙄𝙓𝙏𝙃𝙊𝙉 - 💞👰🏻‍♀💞 𓆪 </b>"
 VANAN = "<b> ⋄︙افيشش 🥺💘 </b>"
 sts_fanan = "https://telegra.ph/file/1f79aad6235f08ea76166.jpg"
 sts_fanan2 = "https://telegra.ph/file/e04b22171d7bb524e7f44.jpg" 
