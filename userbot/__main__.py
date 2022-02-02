@@ -1,5 +1,5 @@
-# Ralls - Userbot
-# Owner - @RallsThon
+# Rolix - Userbot
+# Owner - @RolixXx1
 
 import glob
 import os
