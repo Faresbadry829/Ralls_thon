@@ -8,7 +8,7 @@ import requests
 
 from . import ALIVE_NAME
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Rallsthon"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "RolixXx1"
 
 
 @bot.on(admin_cmd(pattern="app (.*)"))
@@ -143,8 +143,8 @@ async def apkr(event):
             + app_link
             + "'>رابـط التطبيـق ع جوجل بـلاي</a>"
         )
-        app_details += "\n\n<b>علش الريس : </b> <a href='https://t.me/QQ070'>لــ الاستفسـار</a>"
-        app_details += "\n\n===> Rallsthon - @RallsThon ® <==="
+        app_details += "\n\n<b>تلثون روليكس : </b> <a href='https://t.me/YY_YPY'>لــ الاستفسـار</a>"
+        app_details += "\n\n===> RolixXx1 - @RolixXx1 ® <==="
         await event.edit(app_details, link_preview=True, parse_mode="HTML")
     except IndexError:
         await event.edit("**عـذراً .. لا يـوجد نتائـج اكتـب الاسـم الصحيـح للتطبيـق وعـاود البحث مـرة اخـرى**")
