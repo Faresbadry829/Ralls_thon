@@ -71,8 +71,8 @@ Which 𝒅𝒐𝒏'𝒕 𝑬𝒙𝒊𝒔𝒕.
 """,
 ]
 
-# thx for @Uzumaki_Naruto_XD
-# edit @RallsThon
+# thx for @YY_YPY
+# edit @YY_YPY
 
 
 @icssbot.on(admin_cmd(pattern="انكلش"))
