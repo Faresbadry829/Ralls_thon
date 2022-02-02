@@ -1,7 +1,7 @@
-#    Copyright (C) 2020  Teamthon
+#    Copyright (C) 2022  Teamthon
 # button post makker for Rallsthon  thanks to uniborg for the base
-# by @sandy1709 (@mrconfused)
-# edit @Rallsthon  (Ralls)
+# by @sandy1709 (@YY_YPY)
+# edit @YY_YPY  (rolix)
 
 import os
 import re
