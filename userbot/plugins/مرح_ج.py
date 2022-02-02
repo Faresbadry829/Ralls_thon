@@ -1,9 +1,9 @@
-# edit by: @RallsThon for Ralls
+# edit by: @RolixThon for Rolix
 
 import asyncio
 from collections import deque
 from . import ALIVE_NAME
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Ralls"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Rolix"
 
 
 @icssbot.on(admin_cmd(pattern="زرفه$"))
@@ -138,11 +138,11 @@ async def _(event):
         "**توووووووت**",
         "**توووووووووت**",
         "**توووووووووووت**",
-        "**اجه القطار 🚅**",
-        "**وخر عن طريق 🚅🚃🚃**",
+        "**جه القطار 🚅**",
+        "**وسع ياض يروش 🚅🚃🚃**",
         "**تووووت 🚅🚃🚃🚃**",
-        "**جبنها وجت ويانه 🚅🚃🚃🚃🚃**",
-        "**جبناها وجت ويانه 🚅🚃🚃🚃🚃🚃**",
+        "**وسع يا رايق  🚅🚃🚃🚃🚃**",
+        "**اوعا يلاا 🚅🚃🚃🚃🚃🚃**",
         "**rain🚅🚃🚃🚃🚃🚃🚃**",
         "**بيباي 🚅🚃🚃🚃🚃🚃🚃🚃**",
         "**🚅🚃🚃🚃🚃🚃🚃🚃🚃**",
@@ -157,7 +157,7 @@ async def _(event):
         "🚃🚃🚃",
         "🚃🚃",
         "🚃",
-        "**مو قطار ضيم**",
+        "**حمدالله ع السلامه **",
     ]
     for i in animation_ttl:
         await asyncio.sleep(animation_interval)
@@ -441,13 +441,13 @@ async def _(event):
     await asyncio.sleep(0.5)
     await event.edit("▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n😵😵😵😵 \n")
     await asyncio.sleep(0.5)
-    await event.edit("**بوووووم تم تفجير الضحيه**")
+    await event.edit("**بوووووم تم تفجيرو يرايق**")
     await asyncio.sleep(2)
 
 
-@icssbot.on(admin_cmd(pattern="حترك$"))
+@icssbot.on(admin_cmd(pattern="ولعها$"))
 async def _(event):
-    event = await edit_or_reply(event, "جاري اشعال النار")
+    event = await edit_or_reply(event, "جاري توليع النار")
     await event.edit("تحضر")
     await asyncio.sleep(0.3)
     await event.edit("استعد")
