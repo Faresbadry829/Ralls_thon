@@ -15,8 +15,8 @@ from resources.strings import *
 from . import ALIVE_NAME, StartTime, get_readable_time, icsv, mention
 from . import reply_id as rd
 
-DEFAULTUSER = ALIVE_NAME or "Ralls"
-ICSS_IMG = Config.ALIVE_PIC or "https://telegra.ph/file/5d372b95e2a2f92260823.jpg"
+DEFAULTUSER = ALIVE_NAME or "Rolix"
+ICSS_IMG = Config.ALIVE_PIC or "https://telegra.ph/file/886a14cb392a7fd6f4ee5.jpg"
 ICSS_TEXT = Config.CUSTOM_ALIVE_TEXT or "اهلا بك في سورس تلثون روليكس"
 ICSEM = Config.CUSTOM_ALIVE_EMOJI or "⌔︙"
 
