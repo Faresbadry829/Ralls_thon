@@ -65,13 +65,13 @@ async def start_all(event):
                                   caption=startotherena,
                                   buttons=[
                                       [Button.inline(
-                                          "⚜️ 𝐑𝐀𝐈𝐈𝐒𝙏𝙃𝙊𝙉 - 𝙐𝙎𝙀𝙍𝘽𝙊𝙏 ⁦⚜️", data="Icss")]
+                                          "⚜️ 𝙍𝙊𝙇𝙄𝙓𝙏𝙃𝙊𝙉 - 𝙐𝙎𝙀𝙍𝘽𝙊𝙏 ⁦⚜️", data="Icss")]
                                   ])
         else:
             await event.reply(startotherena,
                                      buttons=[
                                          [Button.inline(
-                                             "⚜️ 𝐑𝐀𝐈𝐈𝐒𝙏𝙃𝙊𝙉 - 𝙐𝙎𝙀𝙍𝘽𝙊𝙏 ⁦⚜️", data="icss")]
+                                             "⚜️ 𝙍𝙊𝙇𝙄𝙓𝙏𝙃𝙊𝙉 - 𝙐𝙎𝙀𝙍𝘽𝙊𝙏 ⁦⚜️", data="icss")]
                                      ])
 
 
@@ -88,7 +88,7 @@ async def owner(event):
                                  [Button.inline("⚜️ الاذاعه ⚜️",
                                                 data="toshbroad")],
                                  [Button.url("⚜️ الدعم ⚜️",
-                                             "https://t.me/RallsThon")]
+                                             "https://t.me/RolixXx1")]
                              ])
 
 
@@ -114,7 +114,7 @@ async def logs(event):
         caption="**Heroku** Icss Logs",
         buttons=[
             [Button.url("💠 𝙑𝙄𝙀𝙒 𝙊𝙉𝙇𝙄𝙉𝙀 💠", f"{url}")],
-            [Button.url("💠 𝘾𝙍𝘼𝙎𝙃𝙀𝘿 💠", "t.me/RallsThon")]
+            [Button.url("💠 𝘾𝙍𝘼𝙎𝙃𝙀𝘿 💠", "t.me/YY_YPY")]
         ])
     await asyncio.sleep(5)
     return os.remove('logs.txt')
@@ -129,7 +129,7 @@ async def settings(event):
                              "⌔∮ ليس هناك الكثير للقيام به هنا.",
                              buttons=[
                                      [Button.inline(
-                                         "⚜️ احصل على بوت ريس ثـون بنفسك ⚜️", data="deployme")]
+                                         "⚜️ احصل على بوت تلثون روليكس بنفسك ⚜️", data="deployme")]
                              ])
 
 
@@ -137,7 +137,7 @@ async def settings(event):
           )  # pylint: disable=oof
 async def settings(event):
     await event.delete()
-    await event.reply(f"⌔∮ انا ريس ثـون مساعد {mention}. الشخصي تستطيع الاتصال بي عن طريق هذا البوت",
+    await event.reply(f"⌔∮ انا تلثون روليكس مساعد {mention}. الشخصي تستطيع الاتصال بي عن طريق هذا البوت",
                              buttons=[
                                      [Button.inline(
                                          "⚜️ حصل على بوت ريس ثـون بنفسك ⚜️", data="deployme")]
@@ -192,7 +192,7 @@ async def settings(event):
                                      "اسماء القنوات 🍇", data="chanlan")]
                                  ])
     else:
-        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @RallsThon", alert=True)
+        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @rolixXx1", alert=True)
 
 
 
@@ -213,7 +213,7 @@ async def settings(event):
                                          "اسماء بنات 🍇", data="girlan")]
                                  ])
     else:
-        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @RallsThon", alert=True)
+        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @rolixXx1", alert=True)
 
 
 # Boys zag - زغرفه اسماء الشباب
@@ -233,7 +233,7 @@ async def settings(event):
                                          "║ رجوع ║", data="icsname")]
                                  ])
     else:
-        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @RallsThon", alert=True)
+        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @rolixXx1", alert=True)
 
 
 
@@ -283,7 +283,7 @@ async def settings(event):
                                          "║ رجوع ║", data="icsname")]
                                  ])
     else:
-        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @RallsThon", alert=True)
+        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @rolixXx1", alert=True)
 
 
 
@@ -333,7 +333,7 @@ async def settings(event):
                                          "⫷ التالي ", data="icspio2")]
                                  ])
     else:
-        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @RallsThon", alert=True)
+        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @rolixXx1", alert=True)
 
 
 
@@ -354,7 +354,7 @@ async def settings(event):
                                          "⫷ التالي", data="icspio3")]
                                  ])
     else:
-        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @RallsThon", alert=True)
+        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @rolixXx1", alert=True)
 
 
 
@@ -375,7 +375,7 @@ async def settings(event):
                                          "⫷ التالي", data="icspio4")]
                                  ])
     else:
-        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @RallsThon", alert=True)
+        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @rolixXx1", alert=True)
 
 
 
@@ -396,7 +396,7 @@ async def settings(event):
                                          "⫷ التالي", data="icspio5")]
                                  ])
     else:
-        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @RallsThon", alert=True)
+        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @rolixXx1", alert=True)
 
 
 
@@ -417,7 +417,7 @@ async def settings(event):
                                          "⫷ التالي", data="icspio1")]
                                  ])
     else:
-        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @RallsThon", alert=True)
+        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @rolixXx1", alert=True)
 
 
 # Boys zag - زغرفه اسماء الشباب
@@ -437,7 +437,7 @@ async def settings(event):
                                          "║ رجوع ║", data="icszag")]
                                  ])
     else:
-        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @RallsThon", alert=True)
+        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @rolixXx1", alert=True)
 
 
 # Months - الاشهر
@@ -716,7 +716,7 @@ async def a_txt(event):
             mssg=f"** ⌔∮ تم تغير نص الايڤ من**\n  - `{old_alv}`\n** ⌔∮ الى **\n  - `{themssg}`\n"
             await xx.edit(mssg)
     else:
-        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @RallsThon.", alert=True)
+        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @rolixXx1.", alert=True)
 
 @tgbot.on(events.callbackquery.CallbackQuery(data=re.compile(b"alv_pic"))
            )  # pylint: disable=C0321
@@ -753,7 +753,7 @@ async def alv_pic(event):
         mssg=f"**⌔∮ تم تغير الصوره بنجاح انتظر قليلا **.\n"
         await xx.edit(mssg)
     else:
-        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @RallsThon.", alert=True)
+        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @rolixXx1.", alert=True)
 
 @tgbot.on(events.callbackquery.CallbackQuery(data=re.compile(b"pm_cus")))
 async def alv(event):
@@ -791,7 +791,7 @@ async def a_txt(event):
             mssg=f"**⌔∮ تم تغير رسالة الحمايه من**\n  - `{old_alv}`\n **⌔∮ الى **\n  - `{themssg}`\n"
             await xx.edit(mssg)
     else:
-        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @RallsThon", alert=True)
+        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @rolixXx1", alert=True)
 
 @tgbot.on(events.callbackquery.CallbackQuery(data=re.compile(b"pm_pic"))
            )  # pylint: disable=C0321
@@ -828,4 +828,4 @@ async def alv_pic(event):
         mssg=f"**⌔∮ تم تغير صوره الحمايه الخاصه بك ✨**.\n"
         await xx.edit(mssg)
     else:
-        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @RallsThon.", alert=True)
+        await event.answer("انت لا تستطيع استخدام البوت احصل على بوتك من @rolixXx1.", alert=True)
