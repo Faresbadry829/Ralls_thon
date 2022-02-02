@@ -1,6 +1,6 @@
 """
-©Ralls : @RallsThon
-  - Warns Code For Ralls
+©Rolix : @RolixXx1
+  - Warns Code For Rolix
   - Commends: .warn, .warns, .resetwarns
 """
 import html
