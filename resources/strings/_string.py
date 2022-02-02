@@ -4,7 +4,7 @@ from userbot.Config import Config # Ok - 🖤
 
 USERID = Config.OWNER_ID
 Name = Config.ALIVE_NAME
-DEFAULTUSER = str(Name) if Name else "Ralls THON"
+DEFAULTUSER = str(Name) if Name else "Rolix THON"
 mention = f"[{Name}](tg://user?id={USERID})"
 
 Plugin = "userbot/plugins/{}.py"
