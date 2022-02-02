@@ -1,4 +1,4 @@
-# Afk plugin from Ralls ported from uniborg
+# Afk plugin from Rolix ported from uniborg
 
 import asyncio
 from datetime import datetime
