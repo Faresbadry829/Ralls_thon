@@ -1,5 +1,5 @@
-#Ralls𝙏𝙝𝙤𝙣 ®
-#الملـف حقـوق وكتابـة الريس علش ⤶ @QQ070 خاص بسـورس ⤶ Ralls𝙏𝙝𝙤𝙣
+#Rolix𝙏𝙝𝙤𝙣 ®
+#الملـف حقـوق وكتابـة الريس روليكس ⤶ @YY_YPY خاص بسـورس ⤶ Rolix𝙏𝙝𝙤𝙣
 
 from telethon import events
 from telethon.errors.rpcerrorlist import YouBlockedUserError
