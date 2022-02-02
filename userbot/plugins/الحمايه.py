@@ -24,7 +24,7 @@ PMPERMIT_PIC = Config.PMPERMIT_PIC or None
 ICSS_PIC = (
     PMPERMIT_PIC
     if PMPERMIT_PIC
-    else "https://telegra.ph/file/023abcdeec1f4ae26e163.jpg"
+    else "https://telegra.ph/file/886a14cb392a7fd6f4ee5.jpg"
 )
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Ralls1_bot"
 USER_BOT_WARN_ZERO = "⪼ لقد حذرتك من تكرار الرسائل . الآن تم حظرك والإبلاغ عنك حتى إشعار آخر.\n**- #ججـاو 🚶🏼‍♂️❕،** "
@@ -219,7 +219,7 @@ if Config.PRIVATE_GROUP_ID is not None:
                 f"** ⌔∮ يـجب تفعيـل امـر الحـمايـه اولاً بإرسـال `.الحمايه تفعيل` لـيشتغل هذا الأمـر ...**",
             )
         approved_users = pmpermit_sql.get_all_approved()
-        APPROVED_PMs = "𓆰 𝙎𝙊𝙐𝙍𝘾𝙀 𝐑𝐀𝐈𝐈𝐒𝙏𝙃𝙊𝙉 - 𝑨𝑷𝑷𝑹𝑶𝑽𝑬𝑫𝑺 𓆪\n 𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻\n"
+        APPROVED_PMs = "𓆰 𝙎𝙊𝙐𝙍𝘾𝙀 𝙍𝙊𝙇𝙄𝙓𝙏𝙃𝙊𝙉 - 𝑨𝑷𝑷𝑹𝑶𝑽𝑬𝑫𝑺 𓆪\n 𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻\n"
         if len(approved_users) > 0:
             for sender in approved_users:
                 if sender.reason:
@@ -340,7 +340,7 @@ if Config.PRIVATE_GROUP_ID is not None:
             else:
 
                 USER_BOT_NO_WARN = (
-                    f"𓆩𝙎𝙊𝙐𝙍𝘾𝙀 𝐑𝐀𝐈𝐈𝐒𝙏𝙃𝙊𝙉 - 𝑷𝑴 𝑺𝑬𝑪𝑼𝑹𝑰𝑻𝒀𓆪\n◐━─━─━─━─Ralls─━─━─━─━◐\n\n❞ **هها هلو**  {mention} ❝\n\n **⤶ انا مشغـول حـالياً لا تقـم بازعـاجي وارسـال رسـائل كثيـره والا سـوف يتم حظـرك تلقـائياً.....**"
+                    f"𓆩𝙎𝙊𝙐𝙍𝘾𝙀 𝙍𝙊𝙇𝙄𝙓𝙏𝙃𝙊𝙉 - 𝑷𝑴 𝑺𝑬𝑪𝑼𝑹𝑰𝑻𝒀𓆪\n◐━─━─━─━─Rolix─━─━─━─━◐\n\n❞ **هها هلو**  {mention} ❝\n\n **⤶ انا مشغـول حـالياً لا تقـم بازعـاجي وارسـال رسـائل كثيـره والا سـوف يتم حظـرك تلقـائياً.....**"
                     f"**فقط قل سبب مجيئك وانتظـر حتى اعـود لكـي تتـم الموافقـه عليك**.\
                                     \n\n ⤶ ❨ **عندك** {warns}/{totalwarns} **تحذيرات** ❩"
                 )
@@ -363,7 +363,7 @@ if Config.PRIVATE_GROUP_ID is not None:
                 )
             else:
                 USER_BOT_NO_WARN = (
-                    f"𓆩𝙎𝙊𝙐𝙍𝘾𝙀 𝐑𝐀𝐈𝐈𝐒𝙏𝙃𝙊𝙉 - 𝑷𝑴 𝑺𝑬𝑪𝑼𝑹𝑰𝑻𝒀𓆪\n◐━─━─━─━─Ralls─━─━─━─━◐\n\n❞ **هها هلو**  {mention} ❝\n\n **⤶ انا مشغـول حـالياً لا تقـم بازعـاجي وارسـال رسـائل كثيـره والا سـوف يتم حظـرك تلقـائياً.....**"
+                    f"𓆩𝙎𝙊𝙐𝙍𝘾𝙀 𝙍𝙊𝙇𝙄𝙓𝙏𝙃𝙊𝙉 - 𝑷𝑴 𝑺𝑬𝑪𝑼𝑹𝑰𝑻𝒀𓆪\n◐━─━─━─━─Rolix─━─━─━─━◐\n\n❞ **هها هلو**  {mention} ❝\n\n **⤶ انا مشغـول حـالياً لا تقـم بازعـاجي وارسـال رسـائل كثيـره والا سـوف يتم حظـرك تلقـائياً.....**"
                     f"**فقط قل سبب مجيئك وانتظـر حتى اعـود لكـي تتـم الموافقـه عليك**.\
                                     \n\n ⤶ ❨ **عندك** {warns}/{totalwarns} **تحذيرات** ❩"
                 )
