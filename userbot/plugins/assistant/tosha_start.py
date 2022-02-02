@@ -16,7 +16,7 @@ from .. import mention
 from telegraph import Telegraph, upload_file
 
 # =================== OWNER - Ralls =================== #
-ALIVE_NAME = Config.ALIVE_NAME if Config.ALIVE_NAME else "@RallsThon"
+ALIVE_NAME = Config.ALIVE_NAME if Config.ALIVE_NAME else "@rolixXx1"
 CUSTOM_PMPERMIT_TEXT = Config.CUSTOM_PMPERMIT_TEXT
 LOAD_MYBOT = Config.LOAD_MYBOT
 Heroku = heroku3.from_key(Config.HEROKU_API_KEY)
