@@ -1,4 +1,4 @@
-""" ©Rallsthon™ - @QQ070 """
+""" ©Rallsthon™ - @YY_YPY """
 
 import asyncio
 import random
@@ -24,7 +24,7 @@ FOOT_E_MOJI = "⚽️"
 SLOT_E_MOJI = "🎰"
 # EMOJI CONSTANTS
 
-U = "𓆰 [𝑺𝑶𝑼𝑹𝑪𝑬 Ralls - 𝑪𝑶𝑴𝑴𝑨𝑵𝑫𝑺](t.me/RallsthonThon) 𓆪\n\n\n**⌔∮ قائـمه اوامر الالعاب :** \n\n⪼ `.بلاي` لعرض قائمـة الالعـاب الاحترافيـه\n⪼ `.كت` لعبـة كـت تـويت \n⪼ `.اكس او`\n⪼ `.سهم`\n⪼ `.نرد`\n⪼ `.سلة`\n⪼ `.قدم`\n⪼ `.حظ` \n\n𓆩 [𝙎𝙊𝙐𝙍𝘾𝞝 Ralls - 𝘿𝙀𝙑](t.me/QQ070) 𓆪"
+U = "𓆰 [𝙎𝙊𝙐𝙍𝘾𝙀 𝙍𝙊𝙇𝙄𝙓𝙏𝙃𝙊𝙉 - 𝑪𝑶𝑴𝑴𝑨𝑵𝑫𝑺](t.me/rolixXx1) 𓆪\n\n\n**⌔∮ قائـمه اوامر الالعاب :** \n\n⪼ `.بلاي` لعرض قائمـة الالعـاب الاحترافيـه\n⪼ `.كت` لعبـة كـت تـويت \n⪼ `.اكس او`\n⪼ `.سهم`\n⪼ `.نرد`\n⪼ `.سلة`\n⪼ `.قدم`\n⪼ `.حظ` \n\n𓆩 [𝙎𝙊𝙐𝙍𝘾𝞝 Ralls - 𝘿𝙀𝙑](t.me/QQ070) 𓆪"
 
 @bot.on(admin_cmd(pattern="م22"))
 @bot.on(sudo_cmd(pattern="م22", allow_sudo=True))
