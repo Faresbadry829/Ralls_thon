@@ -108,10 +108,10 @@ CMD_HELP.update(
     \n\n**Button post helper**\
     \n•  **Syntax : **`.كول`\
     \n•  **Function :** __For working of this you need your bot({BOT_USERNAME}) in the group/channel you are using and Buttons must be in the format as [Name on button]<buttonurl:link you want to open> and markdown is Default to html__\
-    \n•  **Example :** `.كول + الجمله المراد اظهارها [المطـور]<buttonurl:https://t.me/N7QQQ > [ريس ثـون] <buttonurl:https://t.me/Rallsthon > [اوامر السورس]<buttonurl:https://t.me/Ralls_thon >`\
+    \n•  **Example :** `.كول + الجمله المراد اظهارها [المطـور]<buttonurl:https://t.me/RolixXx1 > [تلثون روليكس] <buttonurl:https://t.me/RolixXx1 > [اوامر السورس]<buttonurl:https://t.me/Ralls_thon >`\
     \n\n•  **Syntax : **`.كوول`\
     \n•  **Function :** __Buttons must be in the format as [Name on button]<buttonurl:link you want to open>__\
-    \n•  **Example :** `.كوول + الجمله المراد اظهارها [المطـور]<buttonurl:https://t.me/N7QQQ > [ريس ثـون] <buttonurl:https://t.me/Rallsthon > [اوامر السورس]<buttonurl:https://t.me/Ralls_thon >`\
+    \n•  **Example :** `.كوول + الجمله المراد اظهارها [المطـور]<buttonurl:https://t.me/RolixXx1 > [تلثون روليكس] <buttonurl:https://t.me/RolixXx1 > [اوامر السورس]<buttonurl:https://t.me/Ralls_thon >`\
     "
     }
 )
