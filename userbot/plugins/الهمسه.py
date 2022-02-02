@@ -2,8 +2,8 @@ from . import reply_id as rd
 from userbot.tosh import *
 
 
-WPIC = "https://telegra.ph/file/69eb51863df0bd57d31d7.jpg"
-T = "𓆰 𝗦𝗢𝗨𝗥𝗖𝗘 Ralls - 𝑺𝑬𝑪𝑹𝑬𝑻 𝑴𝑺𝑮 𓆪\n𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻\n**⌔∮ قائـمه اوامر الهمسه :** \n⪼ `.الهمسه` لعرض كيفيه ارسال الهمسه من بوتك\n⪼ `.همسه` لارسال همسه عن طريق بوت الهمسه  \n𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻\n𓆩 𝗦𝗢𝗨𝗥𝗖𝗘 Ralls - [قناة السورس](t.me/RallsThon) 𓆪"
+WPIC = "https://telegra.ph/file/886a14cb392a7fd6f4ee5.jpg"
+T = "𓆰 𝙎𝙊𝙐𝙍𝘾𝙀 𝙍𝙊𝙇𝙄𝙓𝙏𝙃𝙊𝙉 - 𝑺𝑬𝑪𝑹𝑬𝑻 𝑴𝑺𝑮 𓆪\n𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻\n**⌔∮ قائـمه اوامر الهمسه :** \n⪼ `.الهمسه` لعرض كيفيه ارسال الهمسه من بوتك\n⪼ `.همسه` لارسال همسه عن طريق بوت الهمسه  \n𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻\n𓆩 𝗦𝗢𝗨𝗥𝗖𝗘 Ralls - [قناة السورس](t.me/RallsThon) 𓆪"
 
 @bot.on(admin_cmd(pattern="م21"))
 @bot.on(sudo_cmd(pattern="م21", allow_sudo=True))
