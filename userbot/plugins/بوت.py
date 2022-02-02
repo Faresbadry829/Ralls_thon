@@ -9,12 +9,12 @@ from . import TOSH, K, mention
 @asst_cmd("/repo|#repo")
 async def dev(kimo):
     await kimo.reply(
-        "⌔∮ 𝙎𝙊𝙐𝙍𝘾𝙀 𝐑𝐀𝐈𝐈𝐒𝙏𝙃𝙊𝙉 - 𝙍𝙀𝙋𝙊 𓆪",
+        "⌔∮ 𝙎𝙊𝙐𝙍𝘾𝙀 𝙍𝙊𝙇𝙄𝙓𝙏𝙃𝙊𝙉 - 𝙍𝙀𝙋𝙊 𓆪",
         buttons=[[Button.url("🔗 𝙍𝙀𝙋𝙊 🔗", K)]]
     )
    
 
-TOSH_PIC = Config.ALIVE_PIC if Config.ALIVE_PIC else "https://telegra.ph/file/be9f9a2283b1db8b2e3ae.jpg"
+TOSH_PIC = Config.ALIVE_PIC if Config.ALIVE_PIC else "https://telegra.ph/file/886a14cb392a7fd6f4ee5.jpg"
 
 if Config.TG_BOT_USERNAME is not None and tgbot is not None:
     @tgbot.on(events.InlineQuery)
@@ -26,8 +26,8 @@ if Config.TG_BOT_USERNAME is not None and tgbot is not None:
         if query.startswith("بوت") and event.query.user_id == bot.uid:
             buttons = [
                 [
-                    Button.url("قنـاة السـورس ⚙️", "https://t.me/RallsThon"),
-                    Button.url("المطـور 👨🏻‍💻", "https://t.me/QQ070"),
+                    Button.url("قنـاة السـورس ⚙️", "https://t.me/RolixXx1"),
+                    Button.url("المطـور 👨🏻‍💻", "https://t.me/YY_YPY"),
                 ]
             ]
             if TOSH_PIC and TOSH_PIC.endswith((".jpg", ".png", "gif", "mp4")):
